@@ -1,0 +1,431 @@
+{
+    "Users": {
+        "1": {
+            "username": "admin",
+            "password": "root",
+            "email": null,
+            "permission": 1,
+            "Matiere": null
+        },
+        "2": {
+            "username": "nom0.prenom0",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "3": {
+            "username": "nom1.prenom1",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "4": {
+            "username": "nom2.prenom2",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "5": {
+            "username": "nom3.prenom3",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "6": {
+            "username": "nom4.prenom4",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "7": {
+            "username": "nom5.prenom5",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "8": {
+            "username": "nom6.prenom6",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "9": {
+            "username": "nom7.prenom7",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "10": {
+            "username": "nom8.prenom8",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "11": {
+            "username": "nom9.prenom9",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "12": {
+            "username": "nom10.prenom10",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "13": {
+            "username": "nom11.prenom11",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "14": {
+            "username": "nom12.prenom12",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "15": {
+            "username": "nom13.prenom13",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "16": {
+            "username": "nom14.prenom14",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "17": {
+            "username": "nom15.prenom15",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "18": {
+            "username": "nom16.prenom16",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "19": {
+            "username": "nom17.prenom17",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "20": {
+            "username": "nom18.prenom18",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "21": {
+            "username": "nom19.prenom19",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "22": {
+            "username": "nom20.prenom20",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "23": {
+            "username": "nom21.prenom21",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "24": {
+            "username": "nom22.prenom22",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "25": {
+            "username": "nom23.prenom23",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "26": {
+            "username": "nom24.prenom24",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "27": {
+            "username": "nom25.prenom25",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "28": {
+            "username": "nom26.prenom26",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "29": {
+            "username": "nom27.prenom27",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "30": {
+            "username": "nom28.prenom28",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "31": {
+            "username": "nom29.prenom29",
+            "password": "test",
+            "email": null,
+            "permission": 2,
+            "Matiere": null
+        },
+        "62": {
+            "username": "nom_prof0.prenom_prof0",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere0"
+        },
+        "63": {
+            "username": "nom_prof1.prenom_prof1",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere1"
+        },
+        "64": {
+            "username": "nom_prof2.prenom_prof2",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere2"
+        },
+        "65": {
+            "username": "nom_prof3.prenom_prof3",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere3"
+        },
+        "66": {
+            "username": "nom_prof4.prenom_prof4",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere4"
+        },
+        "67": {
+            "username": "nom_prof5.prenom_prof5",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere5"
+        },
+        "68": {
+            "username": "nom_prof6.prenom_prof6",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere6"
+        },
+        "69": {
+            "username": "nom_prof7.prenom_prof7",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere7"
+        },
+        "70": {
+            "username": "nom_prof8.prenom_prof8",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere8"
+        },
+        "71": {
+            "username": "nom_prof9.prenom_prof9",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere9"
+        },
+        "72": {
+            "username": "nom_prof10.prenom_prof10",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere10"
+        },
+        "73": {
+            "username": "nom_prof11.prenom_prof11",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere11"
+        },
+        "74": {
+            "username": "nom_prof12.prenom_prof12",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere12"
+        },
+        "75": {
+            "username": "nom_prof13.prenom_prof13",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere13"
+        },
+        "76": {
+            "username": "nom_prof14.prenom_prof14",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere14"
+        },
+        "77": {
+            "username": "nom_prof15.prenom_prof15",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere15"
+        },
+        "78": {
+            "username": "nom_prof16.prenom_prof16",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere16"
+        },
+        "79": {
+            "username": "nom_prof17.prenom_prof17",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere17"
+        },
+        "80": {
+            "username": "nom_prof18.prenom_prof18",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere18"
+        },
+        "81": {
+            "username": "nom_prof19.prenom_prof19",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere19"
+        },
+        "82": {
+            "username": "nom_prof20.prenom_prof20",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere20"
+        },
+        "83": {
+            "username": "nom_prof21.prenom_prof21",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere21"
+        },
+        "84": {
+            "username": "nom_prof22.prenom_prof22",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere22"
+        },
+        "85": {
+            "username": "nom_prof23.prenom_prof23",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere23"
+        },
+        "86": {
+            "username": "nom_prof24.prenom_prof24",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere24"
+        },
+        "87": {
+            "username": "nom_prof25.prenom_prof25",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere25"
+        },
+        "88": {
+            "username": "nom_prof26.prenom_prof26",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere26"
+        },
+        "89": {
+            "username": "nom_prof27.prenom_prof27",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere27"
+        },
+        "90": {
+            "username": "nom_prof28.prenom_prof28",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere28"
+        },
+        "91": {
+            "username": "nom_prof29.prenom_prof29",
+            "password": "test",
+            "email": null,
+            "permission": 1,
+            "Matiere": "matiere29"
+        }
+    }
+}
